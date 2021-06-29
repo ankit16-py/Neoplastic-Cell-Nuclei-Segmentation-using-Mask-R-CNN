@@ -46,6 +46,6 @@ Make sure all the packages listed below are installed properly
 - Also edit the path variables accordingly to the saved dataset.
 
 ## Results
-Below are screenshots of my model's segmentation results.
-<img src='ref_image/output_extended.jpg' width= '500px'>
+Below are screenshots of my model's segmentation results.<br>
+<img src='ref_images/output_extended.jpg' width= '1000px'>
 
