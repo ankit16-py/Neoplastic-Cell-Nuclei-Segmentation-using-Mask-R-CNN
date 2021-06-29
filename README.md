@@ -1,5 +1,5 @@
 # Neoplastic-Cell-Nuclei-Segmentation-using-Mask-R-CNN
-This project uses a state-of-the-art object detection and segmentation model called as the Mask R-CNN to detect and segment neoplastic cell nuclei from whole-slide images. The motivation behind this was to build a system which could automate the process of cell segmentation thus saving researchers and pathologists some valuable time which is otherwise lost in this tedious process. The time saved can be used to further cancer research.
+This project uses a state-of-the-art object detection and segmentation model called as the Mask R-CNN to detect and segment neoplastic cell nuclei from whole-slide images which are present in the PanNuke dataset. The motivation behind this was to build a system which could automate the process of cell segmentation thus saving researchers and pathologists some valuable time which is otherwise lost in this tedious process. The time saved can be used to further cancer research.
 
 <b>Research Paper Available <a href='http://www.irphouse.com/ijert21/ijertv14n3_02.pdf'>Here</a>. Kindly cite if useful.</b>
 
